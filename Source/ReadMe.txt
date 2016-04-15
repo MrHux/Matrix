@@ -1,0 +1,2 @@
+- File_Test\in\ contient les fichiers nécéssaire aux tests unitaires.
+- File_Test\out\out.txt est le fichier écrit par défaut lors de l'export une matrice dans un fichier texte.

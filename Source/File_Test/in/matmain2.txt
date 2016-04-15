@@ -1,0 +1,8 @@
+TypeMatrice=double
+NBLignes=3
+NBColonnes=3
+Matrice=[
+-995 25 32
+444 -12536 42
+9999999 0 1
+]
